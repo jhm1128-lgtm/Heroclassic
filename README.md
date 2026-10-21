@@ -2,15 +2,15 @@
 
 HeroOfChosunClassic 두 캐릭터 사냥 일정 관리 GUI입니다. Windows의 800×600 게임 창 두 개를 대상으로 합니다.
 
-## 최신 버전: REV.63
+## 최신 버전: REV.64
 
-- [V63 전체 적용 ZIP 다운로드](https://github.com/jhm1128-lgtm/Heroclassic/raw/refs/heads/main/releases/EVENT-SINGLE-FLOOR-20261021-63.zip)
-- [V63 적용 방법](docs/V63_APPLY.md)
+- [V64 전체 적용 ZIP 다운로드](https://github.com/jhm1128-lgtm/Heroclassic/raw/refs/heads/main/releases/EVENT-RESUME-20261021-64.zip)
+- [V64 적용 방법](docs/V64_APPLY.md)
 - [버전별 파일](releases/) · [변경 내역](docs/REVISION_HISTORY.md) · [검증 현황](docs/VALIDATION.md)
 
-최신 소스와 화면 인식용 자산은 V63 ZIP에 모두 포함되어 있습니다.
+최신 소스와 화면 인식용 자산은 V64 ZIP에 모두 포함되어 있습니다.
 
-V63: 버려진 동굴 선택 인식을 보완하고, 단일 층이므로 층 클릭 없이 입장합니다.
+V64: 버려진 동굴 사냥 중 GUI 재시작 시 실제 위치를 확인하여 재입장 없이 AUTO 확인과 이벤트 종료 관찰을 이어받습니다. V63의 선택 인식과 층 클릭 생략도 포함합니다.
 
 GUI 최소화 시 트레이로 이동합니다. 트레이 더블클릭으로 복원하고, 우클릭으로 상태 확인 및 종료할 수 있습니다. GUI의 X는 실제 종료입니다.
 
@@ -34,6 +34,6 @@ GUI 최소화 시 트레이로 이동합니다. 트레이 더블클릭으로 복
 
 ## 보관 범위
 
-기존 **REV.40 원본 ZIP은 그대로 보존**했습니다. 현재 확보된 **REV.51~63**를 추가했습니다. REV.51~52는 보존된 해당 버전 소스를 재압축했으며, REV.53~63는 기존 배포 ZIP입니다. REV.41~50은 원본을 확보하지 못해 포함하지 않았습니다.
+기존 **REV.40 원본 ZIP은 그대로 보존**했습니다. 현재 확보된 **REV.51~64**를 추가했습니다. REV.51~52는 보존된 해당 버전 소스를 재압축했으며, REV.53~64는 기존 배포 ZIP입니다. REV.41~50은 원본을 확보하지 못해 포함하지 않았습니다.
 
 `releases/manifest.json`에 각 추가 ZIP의 크기, SHA-256, 파일 수와 출처를 기록했습니다. 개인 설정·Telegram 인증 정보·실행 진단 자료는 배포에 포함하지 않습니다.

@@ -115,5 +115,14 @@
     "sha256": "eb4ad322a52f2e1378777e0502a5e421ed5ef81543385083cb8c2d7ce86b3be1",
     "file_count": 148,
     "provenance": "original_release_archive"
+  },
+  {
+    "revision": 64,
+    "build": "EVENT-RESUME-20261021-64",
+    "path": "releases/EVENT-RESUME-20261021-64.zip",
+    "bytes": 465390,
+    "sha256": "f39cff082e870d1d699ae33ee572e696b542ab0b85582f189d4a1619b336d85a",
+    "file_count": 149,
+    "provenance": "original_release_archive"
   }
 ]
