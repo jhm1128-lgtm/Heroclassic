@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+diagnostics/
+telegram_alerts.json
+hunting_floors.json
+.env
+*.log

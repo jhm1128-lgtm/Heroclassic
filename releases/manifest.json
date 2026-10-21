@@ -1,0 +1,110 @@
+[
+  {
+    "revision": 51,
+    "build": "RETURN-FLOW-20261020-51",
+    "path": "releases/RETURN-FLOW-20261020-51.zip",
+    "bytes": 387691,
+    "sha256": "5aa73bf72d094917307105c5f3c4f9b22914a65e0409a6f2724944b69ce9da58",
+    "file_count": 131,
+    "provenance": "repacked_preserved_source"
+  },
+  {
+    "revision": 52,
+    "build": "EVENT-READY-20261020-52",
+    "path": "releases/EVENT-READY-20261020-52.zip",
+    "bytes": 389351,
+    "sha256": "541b7b72d712147cfdbb0b6c5bf7bb114ac97799184993d38b29c2b721957d88",
+    "file_count": 132,
+    "provenance": "repacked_preserved_source"
+  },
+  {
+    "revision": 53,
+    "build": "RESERVATION-UI-20261020-53",
+    "path": "releases/RESERVATION-UI-20261020-53.zip",
+    "bytes": 389393,
+    "sha256": "0cea71ad5c3af0cc8e618f2969cb6f87aa97222e4e115797a073c45d1c9704c4",
+    "file_count": 132,
+    "provenance": "original_release_archive"
+  },
+  {
+    "revision": 54,
+    "build": "DASHBOARD-20261020-54",
+    "path": "releases/DASHBOARD-20261020-54.zip",
+    "bytes": 391296,
+    "sha256": "51016ec9f4d5e7d8779957f55de0d8b834e13ccf83172942436402f1fb2bdf3e",
+    "file_count": 133,
+    "provenance": "original_release_archive"
+  },
+  {
+    "revision": 55,
+    "build": "EVENT-FLOW-20261020-55",
+    "path": "releases/EVENT-FLOW-20261020-55.zip",
+    "bytes": 392734,
+    "sha256": "dffb9bd27c011d218181694e03893436473b1598cda85cb439b600f7587d4152",
+    "file_count": 133,
+    "provenance": "original_release_archive"
+  },
+  {
+    "revision": 56,
+    "build": "EVENT-AUTO-RETURN-20261020-56",
+    "path": "releases/EVENT-AUTO-RETURN-20261020-56.zip",
+    "bytes": 393437,
+    "sha256": "61e66ef7dd3a41a8dae613f685c035743fd75be94781a389cb9b5ae5e87770dc",
+    "file_count": 133,
+    "provenance": "original_release_archive"
+  },
+  {
+    "revision": 57,
+    "build": "ATTENDANCE-20261021-57",
+    "path": "releases/ATTENDANCE-20261021-57.zip",
+    "bytes": 403677,
+    "sha256": "c0073cc40127d6952a19a60bdf612a716200a484cefd43b0014d2adc0c7d93fd",
+    "file_count": 135,
+    "provenance": "original_release_archive"
+  },
+  {
+    "revision": 58,
+    "build": "SPECIAL-CONTINUITY-20261021-58",
+    "path": "releases/SPECIAL-CONTINUITY-20261021-58.zip",
+    "bytes": 407193,
+    "sha256": "74828a9eb63abfbd93b3a4ce800151137e7bb53335dbba3967e92ff75701f77f",
+    "file_count": 137,
+    "provenance": "original_release_archive"
+  },
+  {
+    "revision": 59,
+    "build": "OBSERVATION-MENU-20261021-59",
+    "path": "releases/OBSERVATION-MENU-20261021-59.zip",
+    "bytes": 410085,
+    "sha256": "05790e41b213e5019559e10df0b6e645d41a7d4495f18e412c7f66dfb4bfe4d9",
+    "file_count": 138,
+    "provenance": "original_release_archive"
+  },
+  {
+    "revision": 60,
+    "build": "TELEGRAM-WATCH-20261021-60",
+    "path": "releases/TELEGRAM-WATCH-20261021-60.zip",
+    "bytes": 417276,
+    "sha256": "dcd6eac18f431f4362f8323b9e85a1024c058234fd27b38b7976e31f4ef5dcd6",
+    "file_count": 142,
+    "provenance": "original_release_archive"
+  },
+  {
+    "revision": 61,
+    "build": "TELEGRAM-VISIBILITY-20261021-61",
+    "path": "releases/TELEGRAM-VISIBILITY-20261021-61.zip",
+    "bytes": 417251,
+    "sha256": "e85568125ea4b78d909f49d0e54dbe978903e0f8d99f108005f22dab07213a53",
+    "file_count": 142,
+    "provenance": "original_release_archive"
+  },
+  {
+    "revision": 62,
+    "build": "TRAY-20261021-62",
+    "path": "releases/TRAY-20261021-62.zip",
+    "bytes": 460384,
+    "sha256": "70769409b29689f5c5bc30e71516f7102c4f67c28a2d3158f64dba32742e3e23",
+    "file_count": 147,
+    "provenance": "original_release_archive"
+  }
+]
