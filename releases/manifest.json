@@ -124,5 +124,14 @@
     "sha256": "f39cff082e870d1d699ae33ee572e696b542ab0b85582f189d4a1619b336d85a",
     "file_count": 149,
     "provenance": "original_release_archive"
+  },
+  {
+    "revision": 65,
+    "build": "EVENT-IDENTITY-20261021-65",
+    "path": "releases/EVENT-IDENTITY-20261021-65.zip",
+    "bytes": 468650,
+    "sha256": "a1b26d5012eebf22059a7777a4e0cd8f7fee562663d6f4e627803464645ca86c",
+    "file_count": 150,
+    "provenance": "original_release_archive"
   }
 ]
