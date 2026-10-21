@@ -133,5 +133,14 @@
     "sha256": "a1b26d5012eebf22059a7777a4e0cd8f7fee562663d6f4e627803464645ca86c",
     "file_count": 150,
     "provenance": "original_release_archive"
+  },
+  {
+    "revision": 66,
+    "build": "NIJO-ENTRY-20261021-66",
+    "path": "releases/NIJO-ENTRY-20261021-66.zip",
+    "bytes": 471887,
+    "sha256": "39cc0d38a092d95ceeb0e188aef6baa96583aab32bec49fb6e950517193732cb",
+    "file_count": 151,
+    "provenance": "original_release_archive"
   }
 ]
