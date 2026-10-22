@@ -178,5 +178,14 @@
     "sha256": "499262e66f406a01afd3a2d8b26cbe77fa3e569f068c76f801ffe39205037536",
     "file_count": 153,
     "provenance": "original_release_archive"
+  },
+  {
+    "revision": 71,
+    "build": "EVENT-TOWN-RESUME-20261022-71",
+    "path": "releases/EVENT-TOWN-RESUME-20261022-71.zip",
+    "bytes": 476066,
+    "sha256": "7a369303f4dabb1f919458e98e0abbb83eaa7dd9094c07e24abdfb97ebfcf7a7",
+    "file_count": 153,
+    "provenance": "original_release_archive"
   }
 ]
