@@ -187,5 +187,14 @@
     "sha256": "7a369303f4dabb1f919458e98e0abbb83eaa7dd9094c07e24abdfb97ebfcf7a7",
     "file_count": 153,
     "provenance": "original_release_archive"
+  },
+  {
+    "revision": 72,
+    "build": "DASHBOARD-CLEAN-20261022-72",
+    "path": "releases/DASHBOARD-CLEAN-20261022-72.zip",
+    "bytes": 475707,
+    "sha256": "9ffdbcc91b1d000111977a2270bab4e881eb0a3a7ace76b98486256f33339586",
+    "file_count": 153,
+    "provenance": "original_release_archive"
   }
 ]
