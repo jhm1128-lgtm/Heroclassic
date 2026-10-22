@@ -169,5 +169,14 @@
     "sha256": "77e44f1ee6a198c1fa4ece125beeb973175ba36dd9eb59851eb349c8ecee40bf",
     "file_count": 153,
     "provenance": "original_release_archive"
+  },
+  {
+    "revision": 70,
+    "build": "GADEOK-SINGLE-FLOOR-20261022-70",
+    "path": "releases/GADEOK-SINGLE-FLOOR-20261022-70.zip",
+    "bytes": 475611,
+    "sha256": "499262e66f406a01afd3a2d8b26cbe77fa3e569f068c76f801ffe39205037536",
+    "file_count": 153,
+    "provenance": "original_release_archive"
   }
 ]
