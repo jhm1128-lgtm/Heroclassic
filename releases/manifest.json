@@ -142,5 +142,14 @@
     "sha256": "39cc0d38a092d95ceeb0e188aef6baa96583aab32bec49fb6e950517193732cb",
     "file_count": 151,
     "provenance": "original_release_archive"
+  },
+  {
+    "revision": 67,
+    "build": "STARTUP-RESUME-20261022-67",
+    "path": "releases/STARTUP-RESUME-20261022-67.zip",
+    "bytes": 472930,
+    "sha256": "8d20b383ee256aacda56ddd90a3b1f94e9243dcc53a80a8bd925a472be0d8868",
+    "file_count": 152,
+    "provenance": "original_release_archive"
   }
 ]
