@@ -160,5 +160,14 @@
     "sha256": "d8c5289d37a8b83decb2bde2cb53065ed7148355f9968956e2c64695a87138ef",
     "file_count": 152,
     "provenance": "original_release_archive"
+  },
+  {
+    "revision": 69,
+    "build": "GADEOK-ENTRY-20261022-69",
+    "path": "releases/GADEOK-ENTRY-20261022-69.zip",
+    "bytes": 475768,
+    "sha256": "77e44f1ee6a198c1fa4ece125beeb973175ba36dd9eb59851eb349c8ecee40bf",
+    "file_count": 153,
+    "provenance": "original_release_archive"
   }
 ]
