@@ -151,5 +151,14 @@
     "sha256": "8d20b383ee256aacda56ddd90a3b1f94e9243dcc53a80a8bd925a472be0d8868",
     "file_count": 152,
     "provenance": "original_release_archive"
+  },
+  {
+    "revision": 68,
+    "build": "EVENT-ARRIVAL-20261022-68",
+    "path": "releases/EVENT-ARRIVAL-20261022-68.zip",
+    "bytes": 473507,
+    "sha256": "d8c5289d37a8b83decb2bde2cb53065ed7148355f9968956e2c64695a87138ef",
+    "file_count": 152,
+    "provenance": "original_release_archive"
   }
 ]
