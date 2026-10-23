@@ -205,5 +205,14 @@
     "sha256": "2425f60c98cc194dd1f0870cb86db1e94871913c35c9389e591e6b1412864eba",
     "file_count": 153,
     "provenance": "original_release_archive"
+  },
+  {
+    "revision": 74,
+    "build": "CHARGED-TIME-20261023-74",
+    "path": "releases/CHARGED-TIME-20261023-74.zip",
+    "bytes": 477590,
+    "sha256": "d5f09c984ebbf6d3d5fb08f939197fb6390de400b087336ca38d434d8575b071",
+    "file_count": 155,
+    "provenance": "original_release_archive"
   }
 ]
