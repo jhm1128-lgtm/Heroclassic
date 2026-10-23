@@ -196,5 +196,14 @@
     "sha256": "9ffdbcc91b1d000111977a2270bab4e881eb0a3a7ace76b98486256f33339586",
     "file_count": 153,
     "provenance": "original_release_archive"
+  },
+  {
+    "revision": 73,
+    "build": "EXTENDED-TIME-20261023-73",
+    "path": "releases/EXTENDED-TIME-20261023-73.zip",
+    "bytes": 476130,
+    "sha256": "2425f60c98cc194dd1f0870cb86db1e94871913c35c9389e591e6b1412864eba",
+    "file_count": 153,
+    "provenance": "original_release_archive"
   }
 ]
