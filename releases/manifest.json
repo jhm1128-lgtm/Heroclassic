@@ -214,5 +214,14 @@
     "sha256": "d5f09c984ebbf6d3d5fb08f939197fb6390de400b087336ca38d434d8575b071",
     "file_count": 155,
     "provenance": "original_release_archive"
+  },
+  {
+    "revision": 75,
+    "build": "EVENT-RETURN-PLACE-20261024-75",
+    "path": "releases/EVENT-RETURN-PLACE-20261024-75.zip",
+    "bytes": 480320,
+    "sha256": "253e93880bb457d1523f51fd3c8b10bac6b1df6de0db37afb42a2ed525b4e829",
+    "file_count": 156,
+    "provenance": "original_release_archive"
   }
 ]
