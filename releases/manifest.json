@@ -223,5 +223,14 @@
     "sha256": "253e93880bb457d1523f51fd3c8b10bac6b1df6de0db37afb42a2ed525b4e829",
     "file_count": 156,
     "provenance": "original_release_archive"
+  },
+  {
+    "revision": 76,
+    "build": "SUPPLY-RECOVERY-20261025-76",
+    "path": "releases/SUPPLY-RECOVERY-20261025-76.zip",
+    "bytes": 480177,
+    "sha256": "b324480ab6acdaf5c331b9cef78aba277a15a1f780828c747e5312aaf8d25941",
+    "file_count": 156,
+    "provenance": "original_release_archive"
   }
 ]
