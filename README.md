@@ -2,15 +2,15 @@
 
 HeroOfChosunClassic 두 캐릭터 사냥 일정 관리 GUI입니다. Windows의 800×600 게임 창 두 개를 대상으로 합니다.
 
-## 최신 버전: REV.76
+## 최신 버전: REV.77
 
-- [V76 전체 적용 ZIP 다운로드](https://github.com/jhm1128-lgtm/Heroclassic/raw/refs/heads/main/releases/SUPPLY-RECOVERY-20261025-76.zip)
-- [V76 적용 방법](docs/V76_APPLY.md)
+- [V77 전체 적용 ZIP 다운로드](https://github.com/jhm1128-lgtm/Heroclassic/raw/refs/heads/main/releases/PROFILE-CONTROLS-20261028-77.zip)
+- [V77 적용 방법](docs/V77_APPLY.md)
 - [버전별 파일](releases/) · [변경 내역](docs/REVISION_HISTORY.md) · [검증 현황](docs/VALIDATION.md)
 
-최신 소스와 화면 인식용 자산은 V76 ZIP에 모두 포함되어 있습니다.
+최신 소스와 화면 인식용 자산은 V77 ZIP에 모두 포함되어 있습니다.
 
-V76: V75 클릭 기록 코드가 방향키 함수에 잘못 들어가 NPC 탐색 중 nx 오류를 내던 문제를 수정했습니다. 오른쪽 보급 출발의 HUD 그림이 전투 효과로 읽히지 않아도 설정된 사냥터 이름이 확인되면 출발하도록 보완했습니다. 오늘 보급 실패 상태의 수동 복구는 양쪽 START로 보급부터 다시 시작합니다.
+V77: 좌우 캐릭터별 자동화 On/Off 버튼을 추가했습니다. 선택 캐릭터의 예약·조작만 중지하며 다른 캐릭터와 게임 AUTO는 유지합니다. 부패한 도성 5시간 충전 화면의 시간 판독을 보완했습니다. 오른쪽 목적지는 기존 왜구 함선1 내부로 유지합니다.
 
 GUI 최소화 시 트레이로 이동합니다. 트레이 더블클릭으로 복원하고, 우클릭으로 상태 확인 및 종료할 수 있습니다. GUI의 X는 실제 종료입니다.
 

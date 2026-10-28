@@ -232,5 +232,14 @@
     "sha256": "b324480ab6acdaf5c331b9cef78aba277a15a1f780828c747e5312aaf8d25941",
     "file_count": 156,
     "provenance": "original_release_archive"
+  },
+  {
+    "revision": 77,
+    "build": "PROFILE-CONTROLS-20261028-77",
+    "path": "releases/PROFILE-CONTROLS-20261028-77.zip",
+    "bytes": 482511,
+    "sha256": "7b26ba1e3f5b4cc28b23cb827aaf7f9fe2b3879002ff0838278e1c50a8338e24",
+    "file_count": 159,
+    "provenance": "original_release_archive"
   }
 ]
