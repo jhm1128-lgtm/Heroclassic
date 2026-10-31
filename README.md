@@ -1,16 +1,16 @@
 # Heroclassic
 
-HeroOfChosunClassic 두 캐릭터 사냥 일정 관리 GUI입니다. Windows의 800×600 게임 창 두 개를 대상으로 합니다.
+HeroOfChosunClassic 두 캐릭터 사냥 일정 관리 GUI입니다. Windows의 800×600 게임 창을 대상으로 하며, 오른쪽 한 개만 실행해도 사용할 수 있습니다.
 
-## 최신 버전: REV.77
+## 최신 버전: REV.78
 
-- [V77 전체 적용 ZIP 다운로드](https://github.com/jhm1128-lgtm/Heroclassic/raw/refs/heads/main/releases/PROFILE-CONTROLS-20261028-77.zip)
-- [V77 적용 방법](docs/V77_APPLY.md)
+- [V78 전체 적용 ZIP 다운로드](https://github.com/jhm1128-lgtm/Heroclassic/raw/refs/heads/main/releases/RIGHT-ONLY-20261031-78.zip)
+- [V78 적용 방법](docs/V78_APPLY.md)
 - [버전별 파일](releases/) · [변경 내역](docs/REVISION_HISTORY.md) · [검증 현황](docs/VALIDATION.md)
 
-최신 소스와 화면 인식용 자산은 V77 ZIP에 모두 포함되어 있습니다.
+최신 소스와 화면 인식용 자산은 V78 ZIP에 모두 포함되어 있습니다.
 
-V77: 좌우 캐릭터별 자동화 On/Off 버튼을 추가했습니다. 선택 캐릭터의 예약·조작만 중지하며 다른 캐릭터와 게임 AUTO는 유지합니다. 부패한 도성 5시간 충전 화면의 시간 판독을 보완했습니다. 오른쪽 목적지는 기존 왜구 함선1 내부로 유지합니다.
+V78: 왼쪽 게임 없이 오른쪽 하나만 자동화할 수 있습니다. 게임 창 하나의 최초 자동 연결은 오른쪽을 기본으로 하고, 전체 자동화는 연결된 게임만 예약합니다. 왼쪽 메뉴·설정은 유지하며, 양쪽 게임 연결도 지원합니다. 한쪽 켜짐도 녹색 표시합니다. 기존 개별 On/Off, 충전시간 인식 및 오른쪽 왜구 함선1 내부 목적지를 유지합니다.
 
 GUI 최소화 시 트레이로 이동합니다. 트레이 더블클릭으로 복원하고, 우클릭으로 상태 확인 및 종료할 수 있습니다. GUI의 X는 실제 종료입니다.
 
@@ -19,7 +19,7 @@ GUI 최소화 시 트레이로 이동합니다. 트레이 더블클릭으로 복
 1. Windows에서 Python 3.11과 Tkinter, `numpy`, `Pillow`가 필요합니다. 개발·검증 환경은 Python 3.11 32비트입니다. 의존성은 `python -m pip install -r requirements.txt`로 설치합니다.
 2. 기존 GUI를 완전히 종료합니다. 트레이에 있다면 우클릭 → 프로그램 종료를 선택합니다.
 3. 전체 ZIP을 기존 설치 폴더에 풀어 적용합니다. 기존 `hunting_floors.json`, `telegram_alerts.json`은 보존합니다. 각 ZIP은 누적 전체 적용본입니다.
-4. `chosun_gui.py`를 실행하고 Windows 관리자 권한 요청을 승인합니다. 왼쪽·오른쪽 게임 연결을 확인하고 **2분할 자동화**를 녹색으로 켭니다.
+4. `chosun_gui.py`를 실행하고 Windows 관리자 권한 요청을 승인합니다. 사용할 게임 연결을 확인하고 **2분할 자동화** 또는 **오른쪽 자동화**를 녹색으로 켭니다. 오른쪽 게임 하나만 실행하면 왼쪽 게임은 필요하지 않습니다.
 5. V76은 자동화를 켤 때 현재 화면을 확인하여 기본 특수지역 사냥이면 종료 관찰을 재개하고, 05:01 이후 한밭마을이면 남은 지역 검사 후 모두 만료 시 일반사냥으로 연결합니다. 이미 일반사냥 중이면 유지합니다. 이벤트는 기존 예약 흐름을 따릅니다.
 
 ## 주요 기능

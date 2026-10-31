@@ -241,5 +241,14 @@
     "sha256": "7b26ba1e3f5b4cc28b23cb827aaf7f9fe2b3879002ff0838278e1c50a8338e24",
     "file_count": 159,
     "provenance": "original_release_archive"
+  },
+  {
+    "revision": 78,
+    "build": "RIGHT-ONLY-20261031-78",
+    "path": "releases/RIGHT-ONLY-20261031-78.zip",
+    "bytes": 482529,
+    "sha256": "c289e8d8d4ecd876ad25b2a06198ea8145321e2bc065e66f8ffd4a1d338a76cc",
+    "file_count": 159,
+    "provenance": "original_release_archive"
   }
 ]
