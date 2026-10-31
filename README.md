@@ -2,15 +2,15 @@
 
 HeroOfChosunClassic 두 캐릭터 사냥 일정 관리 GUI입니다. Windows의 800×600 게임 창을 대상으로 하며, 오른쪽 한 개만 실행해도 사용할 수 있습니다.
 
-## 최신 버전: REV.78
+## 최신 버전: REV.79
 
-- [V78 전체 적용 ZIP 다운로드](https://github.com/jhm1128-lgtm/Heroclassic/raw/refs/heads/main/releases/RIGHT-ONLY-20261031-78.zip)
-- [V78 적용 방법](docs/V78_APPLY.md)
+- [V79 전체 적용 ZIP 다운로드](https://github.com/jhm1128-lgtm/Heroclassic/raw/refs/heads/main/releases/TOWN-RETURN-20261031-79.zip)
+- [V79 적용 방법](docs/V79_APPLY.md)
 - [버전별 파일](releases/) · [변경 내역](docs/REVISION_HISTORY.md) · [검증 현황](docs/VALIDATION.md)
 
-최신 소스와 화면 인식용 자산은 V78 ZIP에 모두 포함되어 있습니다.
+최신 소스와 화면 인식용 자산은 V79 ZIP에 모두 포함되어 있습니다.
 
-V78: 왼쪽 게임 없이 오른쪽 하나만 자동화할 수 있습니다. 게임 창 하나의 최초 자동 연결은 오른쪽을 기본으로 하고, 전체 자동화는 연결된 게임만 예약합니다. 왼쪽 메뉴·설정은 유지하며, 양쪽 게임 연결도 지원합니다. 한쪽 켜짐도 녹색 표시합니다. 기존 개별 On/Off, 충전시간 인식 및 오른쪽 왜구 함선1 내부 목적지를 유지합니다.
+V79: 특수지역 종료 후 한밭마을로 돌아왔는데 마을 이름 인식 실패로 다음 지역 검사가 지연되던 문제를 보완했습니다. 실제 마을 글자 형태 2종을 추가하고 판정 기준 점수는 유지했습니다. V78 오른쪽 단독 자동화와 왼쪽 메뉴·설정은 그대로 유지합니다.
 
 GUI 최소화 시 트레이로 이동합니다. 트레이 더블클릭으로 복원하고, 우클릭으로 상태 확인 및 종료할 수 있습니다. GUI의 X는 실제 종료입니다.
 

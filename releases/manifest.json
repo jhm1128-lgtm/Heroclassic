@@ -250,5 +250,14 @@
     "sha256": "c289e8d8d4ecd876ad25b2a06198ea8145321e2bc065e66f8ffd4a1d338a76cc",
     "file_count": 159,
     "provenance": "original_release_archive"
+  },
+  {
+    "revision": 79,
+    "build": "TOWN-RETURN-20261031-79",
+    "path": "releases/TOWN-RETURN-20261031-79.zip",
+    "bytes": 486165,
+    "sha256": "8151568e2c9c69c75cc8da228dcb8e67e6786343d19ba8a3c1650e6ff506b2ae",
+    "file_count": 161,
+    "provenance": "original_release_archive"
   }
 ]
